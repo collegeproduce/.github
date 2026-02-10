@@ -6,7 +6,7 @@ This repo contains internal documentation and references used by engineering, pr
 
 ## Overview
 
-**College Produce** is a litigation software company built by trial professionals with **25+ years of courtroom experience**.
+- **College Produce** was created by litigation professionals with 25+ years of hands-on trial prep experience
 - Our flagship product, ExhibitPro, automates exhibit tab and label creation by pulling titles directly from documents, turning hours of manual work into minutes. 
 - Built by people who spent 25 years preparing trial binders ourselves. 
 - We create tools we wish we'd had.
